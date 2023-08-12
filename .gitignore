@@ -1,0 +1,6 @@
+res/
+__pycache__
+*.pyc
+.idea
+*.deb
+_build
